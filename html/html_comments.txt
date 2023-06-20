@@ -1,0 +1,20 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title>"Indira"</title>
+</head>
+<body>
+<!--these are HTML Formatting Elements -->
+<b> - Bold text </b>
+<strong> - Important text </strong> 
+<i> - Italic text </i>
+<em> - Emphasized text </em>
+<mark> - Marked text </mark>
+<small> - Smaller text </small>
+<del> - Deleted text </del>
+<ins> - Inserted text </ins>
+H<sub>2</sub>O
+a<sup>2 </sup>
+
+</body>
+</html>
